@@ -31,32 +31,32 @@ The output produced by the program consists of several components for each test 
 
 Using prefix-doubling with comparison-based sorting:
 
-Sorting each step: O(n log n)
+  Sorting each step: O(n log n)
 
-Number of steps: O(log n)
+  Number of steps: O(log n)
 
-Total time: O(n log² n)
+  Total time: O(n log² n)
 
 Space usage:
 
-SA, rank, and temp arrays
+  SA, rank, and temp arrays
 
-Space: O(n)
+  Space: O(n)
 
 
 LCP Array (Kasai)
 
 Kasai’s algorithm is linear:
 
-Time: O(n)
+  Time: O(n)
 
-Space: O(n) (LCP and rank arrays)
+  Space: O(n) (LCP and rank arrays)
 
-Total Complexity
+Total Complexity:
 
-Time: O(n log² n)
+  Time: O(n log² n)
 
-Space: O(n)
+  Space: O(n)
 
 5. CONCLUSION
 
