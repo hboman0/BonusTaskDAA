@@ -29,7 +29,7 @@ The output produced by the program consists of several components for each test 
 4. TIME AND SPACE COMPLEXITY ANALYSIS
    
 Suffix Array Construction
-Using prefix-doubling with comparison-based sorting:
+using prefix-doubling with comparison-based sorting:
 
   Sorting each step: O(n log n)
 
