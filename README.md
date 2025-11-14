@@ -27,8 +27,8 @@ The output produced by the program consists of several components for each test 
 <img width="491" height="469" alt="image" src="https://github.com/user-attachments/assets/d87dcaac-53ea-4bf2-807d-269b4099752a" />
 
 4. TIME AND SPACE COMPLEXITY ANALYSIS
-   Suffix Array Construction
-
+   
+Suffix Array Construction
 Using prefix-doubling with comparison-based sorting:
 
   Sorting each step: O(n log n)
